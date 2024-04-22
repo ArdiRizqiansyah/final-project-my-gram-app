@@ -2,8 +2,6 @@
 
 Final Projek Kelas Kominfo. Membuat aplikasi MyGram
 
-# Swagger UI
-
 ## Instal Project
 
 1. Install package go
@@ -20,6 +18,8 @@ cp .env.example .env
 ```bash
 go run main.go
 ```
+
+# Swagger UI
 
 ## Comment
 
